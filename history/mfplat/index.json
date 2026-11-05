@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "mfplat.dll",
+  "latest": "2273619009-5F090E31EB4E9D731D7EEE126E9B1798-1",
+  "builds": [
+    {
+      "key": "2273619009-5F090E31EB4E9D731D7EEE126E9B1798-1",
+      "timestamp": "2273619009",
+      "pdb_guid": "5F090E31EB4E9D731D7EEE126E9B1798",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2273619009-5F090E31EB4E9D731D7EEE126E9B1798-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
